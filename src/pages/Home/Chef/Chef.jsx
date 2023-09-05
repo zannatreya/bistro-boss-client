@@ -1,7 +1,7 @@
 import "./Chef.css";
 const Chef = () => {
   return (
-    <div className="featured-item text-white bg-fixed h-screen pt-8 my-20">
+    <div className="chef-item text-white bg-fixed h-screen pt-8 my-20">
       <div className="items-center max-w-screen-md mt-24 bg-white text-black mx-auto pb-20">
         <div className="p-12">
           <p className="uppercase text-4xl text-center pt-6 pb-4">
